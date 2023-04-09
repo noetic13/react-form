@@ -1,0 +1,17 @@
+
+.user-logo {
+  width:130px;
+  height:130px;
+  border-radius: 45px;
+}
+#sign-in{
+  border-radius: 30px;
+  padding: 20px;
+  max-width:330px;
+  background: linear-gradient(0deg, rgb(223, 223, 223) 0%, rgba(235,235,235,1) 100%);
+}
+
+#main-container{
+  place-items:center center;
+}
+
